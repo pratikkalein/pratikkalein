@@ -1,4 +1,4 @@
-## Hi, I'm [Pratik Kale](www.linkedin.com/in/pratik-kale135) 👋
+## Hi, I'm [Pratik Kale](https://www.linkedin.com/in/pratik-kale135) 👋
 <b></b>
 
 <a href="https://birangal.com">
@@ -58,7 +58,7 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 
 
 
-[![Aditya Birangal's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaBirangal)](https://github-readme-stats.vercel.app/api?username=AdityaBirangal)
+[![Aditya Birangal's Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20)](https://github-readme-stats.vercel.app/api?username=pratik-kale20)
 
 
 <!--
