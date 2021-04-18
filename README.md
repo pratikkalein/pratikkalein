@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://twitter.com/Pratik_kale135">
-  <img align="left" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Pratik's Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1618765318~hmac=4813ced860cd05f21eb87fe99023ec5c" />
 </a>
 
 <a href="https://instagram.com/prato.grapher">
