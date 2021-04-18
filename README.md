@@ -5,16 +5,12 @@
   <img align="left" alt="Pratik's LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618764790~hmac=cfbc8003c7fb0dc6228c0cd1a76aad98" />
 </a>
 
-<a href="https://linkedin.com/in/AdityaBirangal">
-  <img align="left" alt="Aditya Birangal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://twitter.com/Pratik_kale135">
+  <img align="left" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://twitter.com/AdityaBirangal">
-  <img align="left" alt="Aditya Birangal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://instagram.com/Aditya.Birangal">
-  <img align="left" alt="Aditya Birangal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://instagram.com/prato.grapher">
+  <img align="left" alt="Pratik's Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1618765090~hmac=00f5b28f597bc57f3b0e575b02ec3e88" />
 </a>
 
 <a href="https://www.facebook.com/AdityaBirangal">
