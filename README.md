@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://instagram.com/prato.grapher">
-  <img align="left" alt="Pratik's Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1618765090~hmac=00f5b28f597bc57f3b0e575b02ec3e88" />
+  <img align="left" alt="Pratik's Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1618765265~hmac=23727270ad45740e7bf72e7ad92fba05" />
 </a>
 
 <a href="https://www.facebook.com/AdityaBirangal">
