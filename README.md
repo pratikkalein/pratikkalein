@@ -38,6 +38,8 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 
 **Languages and Tools:**
 
+<img height="35" src="https://www.flaticon.com/svg/vstatic/svg/174/174854.svg?token=exp=1618851019~hmac=bb0a5e8b46614de0103b38cc96b69435">&nbsp;
+<img height="35" src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618850031~hmac=3a0b8c7e6259d8e288c51b3d48f01599">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;
@@ -45,8 +47,6 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">&nbsp;
 <img height="35" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">&nbsp;
-<img height="35" src="https://www.flaticon.com/svg/vstatic/svg/174/174854.svg?token=exp=1618851019~hmac=bb0a5e8b46614de0103b38cc96b69435">&nbsp;
-<img height="35" src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618850031~hmac=3a0b8c7e6259d8e288c51b3d48f01599">&nbsp;
 
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
