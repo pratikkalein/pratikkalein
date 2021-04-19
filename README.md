@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://www.facebook.com/people/Pratik-Kale/100037021086436/">
-  <img align="left" alt="Pratik's Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/145/145802.svg?token=exp=1618847408~hmac=8cc37007ef099c611e90a1344e0933e4" />
+  <img align="left" alt="Pratik's Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/179/179319.svg?token=exp=1618849190~hmac=6cb4857fe9e1199592b87e182aece304" />
 </a>
 
 
@@ -29,7 +29,7 @@ I'm extremely passionate about Technology.
 <b>#SelfTaught</b> Developer and makes <b>Android, iOS & Web </b>Apps.
 I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</b> new <b>Tech</b> stuff...
 
-<img align ="right" src = "https://github.com/pratik-kale20/pratik-kale20/blob/main/linux.png" width="250" height="250">
+<img align ="right" src = "https://github.com/pratik-kale20/pratik-kale20/blob/main/linux.png" width="250" height="300">
 
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with Firebase
