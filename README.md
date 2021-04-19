@@ -13,16 +13,13 @@
   <img align="left" alt="Pratik's Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1618765265~hmac=23727270ad45740e7bf72e7ad92fba05" />
 </a>
 
-<a href="https://www.facebook.com/AdityaBirangal">
-  <img align="left" alt="Aditya Birangal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/people/Pratik-Kale/100037021086436/">
+  <img align="left" alt="Pratik's Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/145/145802.svg?token=exp=1618847408~hmac=8cc37007ef099c611e90a1344e0933e4" />
 </a>
 
-<a href="https://stackoverflow.com/users/13450398/aditya-birangal">
-  <img align="left" alt="Aditya Birangal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
 
 <a href="mailto:ppkale@mitaoe.ac.in">
-  <img align="left" alt="Aditya Birangal's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Pratik's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br/>
@@ -32,13 +29,12 @@ I'm extremely passionate about Technology.
 <b>#SelfTaught</b> Developer and makes <b>Android, iOS & Web </b>Apps.
 I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</b> new <b>Tech</b> stuff...
 
-<img align ="right" src = "https://github.com/AdityaBirangal/AdityaBirangal/blob/master/megacat.png" width="250" height="250">
+<img align ="right" src = "https://github.com/pratik-kale20/pratik-kale20/blob/main/linux.png" width="250" height="250">
 
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with Firebase
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I need Music 🎵 while Coding...
+- 📫 How to reach me: ppkale@mitaoe.ac.in
 
 **Languages and Tools:**
 
@@ -54,7 +50,7 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 
 
 
-[![Aditya Birangal's Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20)](https://github-readme-stats.vercel.app/api?username=pratik-kale20)
+[![Pratik's Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20)](https://github-readme-stats.vercel.app/api?username=pratik-kale20)
 
 
 <!--
