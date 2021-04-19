@@ -50,7 +50,7 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 
 
 
-[![Pratik's Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20)](https://github-readme-stats.vercel.app/api?username=pratik-kale20)
+[![Pratik's Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=algolia)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=algolia)
 
 
 <!--
