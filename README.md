@@ -29,7 +29,7 @@ I'm extremely passionate about Technology.
 <b>#SelfTaught</b> Developer and makes <b>Android, iOS & Web </b>Apps.
 I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</b> new <b>Tech</b> stuff...
 
-<img align ="right" src = "https://github.com/pratik-kale20/pratik-kale20/blob/main/linux.png" width="250" height="300">
+<img align ="right" src = "https://github.com/pratik-kale20/pratik-kale20/blob/main/linux.png" width="250" height="250">
 
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with Firebase
