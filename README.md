@@ -50,7 +50,7 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 <img height="35" src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618850031~hmac=3a0b8c7e6259d8e288c51b3d48f01599">&nbsp;
 
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=algolia&show_icons=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=algolia)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=algolia&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=algolia&include_all_commits=true&count_private=true)
 
 
 <!--
