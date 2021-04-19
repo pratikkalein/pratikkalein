@@ -19,7 +19,7 @@
 
 
 <a href="mailto:ppkale@mitaoe.ac.in">
-  <img align="left" alt="Pratik's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Pratik's Email" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1618849262~hmac=01f1f7e71ba37dc5765ca8747fd39215" />
 </a>
 
 <br/>
