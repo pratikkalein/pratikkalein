@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://www.facebook.com/people/Pratik-Kale/100037021086436/">
-  <img align="left" alt="Pratik's Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/179/179319.svg?token=exp=1618849190~hmac=6cb4857fe9e1199592b87e182aece304" />
+  <img align="left" alt="Pratik's Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/145/145802.svg?token=exp=1619704595~hmac=dbed48a6637735e75cfb1454e5838255" />
 </a>
 
 
