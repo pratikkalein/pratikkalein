@@ -1,7 +1,7 @@
 ## Hi, I'm [Pratik Kale](https://www.linkedin.com/in/pratik-kale135) 👋
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<i class="fa fa-check-circle"></i>
+
 
 <b></b>
 
@@ -15,7 +15,7 @@
 <b></b>
 
 <img align ="right" src = "https://github.com/pratik-kale20/pratik-kale20/blob/main/linux.png" width="250" height="250">
-
+<i class="fa fa-check-circle"></i>
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with Firebase
 - 😄 Pronouns: He/His
