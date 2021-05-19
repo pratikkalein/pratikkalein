@@ -1,26 +1,24 @@
 ## Hi, I'm [Pratik Kale](https://www.linkedin.com/in/pratik-kale135) 👋
 <b></b>
 
-<a href="https://www.linkedin.com/in/pratik-kale135">
-  <img align="left" alt="Pratik's LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618764790~hmac=cfbc8003c7fb0dc6228c0cd1a76aad98" />
-</a>
+<p>
+  <a href="mailto:ppkale@mitaoe.ac.in"" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pratik-kale135" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/Pratik_kale135" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://dev.to/pratik_kale" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
+  <a href="https://instagram.com/prato.grapher" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Instagram-0088cc?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</p>
 
-<a href="https://twitter.com/Pratik_kale135">
-  <img align="left" alt="Pratik's Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1619091037~hmac=700137cd111eaf4373f98f2e5e447c87" />
-</a>
+
+
 
 <a href="https://instagram.com/prato.grapher">
   <img align="left" alt="Pratik's Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1618765265~hmac=23727270ad45740e7bf72e7ad92fba05" />
 </a>
 
-<a href="https://www.facebook.com/people/Pratik-Kale/100037021086436/">
-  <img align="left" alt="Pratik's Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/145/145802.svg?token=exp=1619704595~hmac=dbed48a6637735e75cfb1454e5838255" />
-</a>
 
 
-<a href="mailto:ppkale@mitaoe.ac.in">
-  <img align="left" alt="Pratik's Email" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1618849262~hmac=01f1f7e71ba37dc5765ca8747fd39215" />
-</a>
+
 
 <br/>
 <br/>
