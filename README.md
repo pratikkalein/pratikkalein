@@ -9,8 +9,6 @@
   <a href="https://instagram.com/prato.grapher" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Instagram-0088cc?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
 
-<br/>
-<br/>
 
 <img align ="right" src = "https://github.com/pratik-kale20/pratik-kale20/blob/main/linux.png" width="250" height="250">
 
@@ -21,15 +19,10 @@
 
 **Languages and Tools:**
 
-<img height="35" src="https://www.flaticon.com/svg/vstatic/svg/174/174854.svg?token=exp=1618851019~hmac=bb0a5e8b46614de0103b38cc96b69435">&nbsp;
-<img height="35" src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618850031~hmac=3a0b8c7e6259d8e288c51b3d48f01599">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">&nbsp;
-<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">&nbsp;
-<img height="35" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">&nbsp;
+<p>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="20"> <img src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=C&logoColor=black" height="20"> <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" height="20"> <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="20"> <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="20"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="20"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="20"> <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=blue" height="20"> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/-Canva-20c4cb?style=flat-square&logo=canva&logoColor=white" height="20">
+</p>
 
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
