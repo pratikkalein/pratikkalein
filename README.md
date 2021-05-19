@@ -15,7 +15,7 @@
 <b></b>
 
 <img align ="right" src = "https://github.com/pratik-kale20/pratik-kale20/blob/main/linux.png" width="250" height="250">
-<i class="fa fa-check-circle"></i>
+
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with Firebase
 - 😄 Pronouns: He/His
