@@ -21,7 +21,7 @@
 - 😄 Pronouns: He/His
 - 📫 How to reach me: ppkale@mitaoe.ac.in
 <b></b>
-<h2>Languages and Tools</h2>                                                                                                                       
+<h2>🛠️ Languages and Tools</h2>                                                                                                                       
 
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
