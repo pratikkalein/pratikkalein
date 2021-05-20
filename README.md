@@ -1,5 +1,5 @@
 <img src="namecard.png">
-<br></br>
+
 
 <h2>📱 My Socials</h2>
 <p>
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/-Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=white" height="25">
 </p>
 
-<br></br>
+<h2>My Github Stats</h2>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
 
