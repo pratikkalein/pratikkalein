@@ -1,27 +1,24 @@
-## Hi, I'm [Pratik Kale](https://www.linkedin.com/in/pratik-kale135) 👋
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<img src="namecard.png">
+<br></br>
 
-
-
-<b></b>
-
+<h2>📱 My Socials</h2>
 <p>
-  <a href="mailto:ppkale@mitaoe.ac.in"" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pratik-kale135" target="_blank"> <img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/Pratik_kale135" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://dev.to/pratik_kale" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
-  <a href="https://instagram.com/prato.grapher" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Instagram-0088cc?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="mailto:ppkale@mitaoe.ac.in" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pratik-kale135" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/Pratik_kale135" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://dev.to/pratik_kale" target="_blank"><img height="30" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
+  <a href="https://instagram.com/prato.grapher" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
-<b></b>
 
-<img align ="right" src = "https://github.com/pratik-kale20/pratik-kale20/blob/main/linux.png" width="250" height="250">
+<img align ="right" src = "linux.png" width="250" height="250">
 
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with Firebase
 - 😄 Pronouns: He/His
 - 📫 How to reach me: ppkale@mitaoe.ac.in
-<b></b>
-<h2>🛠️ Languages and Tools</h2>                                                                                                                       
+<br></br>
+
+<h2>🛠️ Stuff I Know</h2>                                                                                                                       
 
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
@@ -35,8 +32,10 @@
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=blue" height="25"> 
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-Canva-20c4cb?style=flat-square&logo=canva&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=white" height="25">
 </p>
 
+<br></br>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
 
