@@ -1,5 +1,7 @@
-<img href="https://pratikkale.biz" src="namecard.png">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1D0AF6&size=30&center=true&vCenter=true&width=500&lines=Hello+World+!+🌎+;Namaste+Duniya+!+🌎+;Hallo+Welt+!+🌎+;Ciao+mondo+!+🌎+;Hola+Mundo+!+🌎)](https://git.io/typing-svg)
+<hr>
 
+<img href="https://pratikkale.biz" src="namecard.jpg">
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
 <p>
@@ -12,7 +14,7 @@
 
 <img align ="right" src = "linux.png" width="250" height="250">
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Frontend Devlopment
 - 🤔 I’m looking for help with Firebase
 - 😄 Pronouns: He/His
 - 📫 How to reach me: ppkale@mitaoe.ac.in
@@ -35,10 +37,14 @@
 <img src="https://img.shields.io/badge/-Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=white" height="25">
 </p>
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
 
+<h2><img src="https://media.tenor.com/images/2c67c79dca6f61769ff19a3d23e7a37f/tenor.gif" height="25"> Random Dev Joke</h2>
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000&textColor=%23ffff&qColor=%23ffffff&aColor=%23ffffff&borderColor=%23&codeColor=%23ffffff)
              
 <!--
 **pratik-kale20/pratik-kale20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
