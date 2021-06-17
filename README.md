@@ -40,6 +40,7 @@
 <h2><img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" height="20"> Latest Blog Posts</h2>  
 
 <!-- BLOG-POST-LIST:START -->
+- [The Secret GitHub Repository ! 🤫](https://dev.to/pratik_kale/the-secret-github-repository-3385)
 - [Customise Your Terminal Using Zsh & powerlevel10k](https://dev.to/pratik_kale/customise-your-terminal-using-zsh-powerlevel10k-1og5)
 <!-- BLOG-POST-LIST:END -->
 
