@@ -51,7 +51,13 @@
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000&textColor=%23ffff&qColor=%23ffffff&aColor=%23ffffff&borderColor=%23&codeColor=%23ffffff)
-             
+
+
+ <p align="center"> 
+  Visitors Count<br>
+  <img src="https://profile-counter.glitch.me/pratik-kale20/count.svg" />
+</p>   
+
 <!--
 **pratik-kale20/pratik-kale20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
