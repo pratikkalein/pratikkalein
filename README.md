@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1D0AF6&size=30&center=true&vCenter=true&width=600&lines=Hello+World+!+🌎+;Namaste+Duniya+!+🌎+;Hallo+Welt+!+🌎+;Ciao+mondo+!+🌎+;Hola+Mundo+!+🌎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1D0AF6&size=30&center=true&vCenter=true&width=900&lines=Hello+World+!+🌎+;Namaste+Duniya+!+🌎+;Hallo+Welt+!+🌎+;Ciao+mondo+!+🌎+;Hola+Mundo+!+🌎)](https://git.io/typing-svg)
 <hr>
 
 <img href="https://pratikkale.biz" src="namecard.jpg">
