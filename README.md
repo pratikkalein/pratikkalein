@@ -41,7 +41,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Secret GitHub Repository ! 🤫](https://dev.to/pratik_kale/the-secret-github-repository-3385)
-- [Customise Your Terminal Using Zsh & powerlevel10k](https://dev.to/pratik_kale/customise-your-terminal-using-zsh-powerlevel10k-1og5)
+- [Customise Your Terminal Using Zsh &amp; powerlevel10k](https://dev.to/pratik_kale/customise-your-terminal-using-zsh-powerlevel10k-1og5)
 <!-- BLOG-POST-LIST:END -->
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
