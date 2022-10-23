@@ -1,13 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1D0AF6&size=30&center=true&vCenter=true&width=900&lines=Hello+World+!+🌎+;Namaste+Duniya+!+🌎+;Hallo+Welt+!+🌎+;Ciao+mondo+!+🌎+;Hola+Mundo+!+🌎)](https://git.io/typing-svg)
+
 <hr>
 
-<img href="https://pratikkale.biz" src="namecard.jpg">
+<img title="" src="namecard.png" alt="" href="https://pratikkale.biz">
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
 <p>
-  <a href="mailto:kalepratik@protonmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pratik-kale135" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/Pratik_kale135" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="mailto:ppvkale@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-EA4335?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pratikkalein" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/pratikkalein" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://dev.to/pratik_kale" target="_blank"><img height="30" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
   <a href="https://instagram.com/prato.grapher" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
@@ -17,10 +18,10 @@
 - 🌱 I’m currently learning Frontend Devlopment
 - 🤔 I’m looking for help with Firebase
 - 😄 Pronouns: He/His
-- 📫 How to reach me: kalepratik@protonmail.com
-<br></br>
+- 📫 How to reach me: ppvkale@gmail.com
+  <br></br>
 
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                                                       
+<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>
 
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
@@ -37,12 +38,14 @@
 <img src="https://img.shields.io/badge/-Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=white" height="25">
 </p>
 
-<h2><img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" height="20"> Latest Blog Posts</h2>  
+<h2><img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" height="20"> Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [The Secret GitHub Repository ! 🤫](https://dev.to/pratik_kale/the-secret-github-repository-3385)
 - [Customise Your Terminal Using Zsh &amp; powerlevel10k](https://dev.to/pratik_kale/customise-your-terminal-using-zsh-powerlevel10k-1og5)
-<!-- BLOG-POST-LIST:END -->
+  
+  <!-- BLOG-POST-LIST:END -->
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
 
@@ -50,14 +53,12 @@
 
 <h2><img src="https://media.tenor.com/images/2c67c79dca6f61769ff19a3d23e7a37f/tenor.gif" height="25"> Random Dev Joke</h2>
 
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000&textColor=%23ffff&qColor=%23ffffff&aColor=%23ffffff&borderColor=%23&codeColor=%23ffffff)
 
-
- <p align="center"> 
+<p align="center"> 
   Visitors Count<br>
   <img src="https://profile-counter.glitch.me/pratikkalein/count.svg" />
-</p>   
+</p>
 
 <!--
 **pratik-kale20/pratik-kale20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
