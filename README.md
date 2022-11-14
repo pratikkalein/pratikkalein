@@ -2,7 +2,7 @@
 
 <hr>
 
-<img title="" src="namecard.png" alt="" href="https://pratikkale.biz">
+<img title="" src="https://raw.githubusercontent.com/prtkdev/prtkdev/main/namecard.png" alt="" href="https://pratikkale.biz">
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
 <p>
