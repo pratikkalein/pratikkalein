@@ -13,7 +13,7 @@
   <a href="https://instagram.com/prato.grapher" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
 
-<img align ="right" src = "linux.png" width="250" height="250">
+<img align ="right" src = "https://raw.githubusercontent.com/prtkdev/prtkdev/main/linux.png" width="250" height="250">
 
 - 🌱 I’m currently learning Frontend Devlopment
 - 🤔 I’m looking for help with Firebase
