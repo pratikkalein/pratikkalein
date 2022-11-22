@@ -49,7 +49,7 @@
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikkalein&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=pratikkalein&theme=midnight-purple&include_all_commits=true&count_private=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=prtkdev&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=pratikkalein&theme=midnight-purple&include_all_commits=true&count_private=true)
 
 <h2><img src="https://media.tenor.com/images/2c67c79dca6f61769ff19a3d23e7a37f/tenor.gif" height="25"> Random Dev Joke</h2>
 
