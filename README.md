@@ -41,11 +41,11 @@
 <h2><img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" height="20"> Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Git with Visual Studio Code](https://dev.to/pratik_kale/using-git-with-visual-studio-code-47oi)
 - [Collaborating with Others on GitHub](https://dev.to/pratik_kale/collaborating-with-others-on-github-3260)
 - [Git Branching and Merging](https://dev.to/pratik_kale/git-branching-and-merging-mh4)
 - [Creating Your First GitHub Repository](https://dev.to/pratik_kale/creating-your-first-github-repository-30e)
 - [Setting up Git on Your Local Machine](https://dev.to/pratik_kale/setting-up-git-on-your-local-machine-41l1)
-- [Introduction to Git &amp; GitHub](https://dev.to/pratik_kale/introduction-to-git-github-508d)
 <!-- BLOG-POST-LIST:END -->
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
