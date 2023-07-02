@@ -41,11 +41,11 @@
 <h2><img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" height="20"> Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Using Git and GitHub](https://dev.to/pratik_kale/best-practices-for-using-git-and-github-6em)
+- [Troubleshooting Common Git Issues](https://dev.to/pratik_kale/troubleshooting-common-git-issues-2jhn)
 - [Integrating GitHub with Other Tools](https://dev.to/pratik_kale/integrating-github-with-other-tools-5g7g)
 - [Advanced Git Techniques](https://dev.to/pratik_kale/advanced-git-techniques-20n8)
 - [GitHub Actions: Automating Your Workflow](https://dev.to/pratik_kale/github-actions-automating-your-workflow-5a29)
-- [GitHub Desktop: Simplified Git Workflow](https://dev.to/pratik_kale/github-desktop-simplified-git-workflow-3bhb)
-- [GitKraken Client: Advanced Features](https://dev.to/pratik_kale/gitkraken-client-advanced-features-5emi)
 <!-- BLOG-POST-LIST:END -->
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
