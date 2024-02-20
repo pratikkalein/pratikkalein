@@ -19,3 +19,5 @@ jobs:
           HASHNODE_PUBLICATION_NAME: "pratikkale.hashnode.dev"
           POST_COUNT: 6
           FORMAT: "stacked"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
