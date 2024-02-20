@@ -41,6 +41,27 @@
 
 <h2><img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" height="20"> Latest Blog Posts</h2>
 <!-- HASHNODE_BLOG:START -->
+<p align="left"><a href="https://pratikkale.in/blog/how-to-manage-google-cloud-compute-engine-with-python" title="How to Manage Google Cloud Compute Engine with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694067592881/dedebe2d-6fae-4e0e-a5cd-73ab0fa7ea10.png" alt="How to Manage Google Cloud Compute Engine with Python" width="300px" align="left" /></a><a href="https://pratikkale.in/blog/how-to-manage-google-cloud-compute-engine-with-python" title="How to Manage Google Cloud Compute Engine with Python"><strong>How to Manage Google Cloud Compute Engine with Python</strong></a><div><strong>September 7, 2023</strong></div><br/>Compute Engine is an IaaS offering by Google Cloud. It is a powerful platform that can be used to create and manage virtual machines. However, managing Compute Engine can be a complex task. In this bl...</p><br/><br/>
+
+<p align="left"><a href="https://pratikkale.in/blog/the-secret-github-repository" title="The Secret GitHub Repository ! 🤫"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693929820620/8b80411a-d1ef-4376-8eca-9f23b666a1bb.png" alt="The Secret GitHub Repository ! 🤫" width="300px" align="left" /></a><a href="https://pratikkale.in/blog/the-secret-github-repository" title="The Secret GitHub Repository ! 🤫"><strong>The Secret GitHub Repository ! 🤫</strong></a><div><strong>September 4, 2023</strong></div><br/>Do you know that GitHub allows you to display a README on your GitHub profile through which you can convey information about yourself to other people? You can add information about yourself, your cont...</p><br/><br/>
+
+<p align="left"><a href="https://pratikkale.in/blog/customise-your-terminal-using-zsh-powerlevel10k" title="Customise Your Terminal Using powerlevel10k & Zsh"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661956930240/vZ23EMv53.jpeg" alt="Customise Your Terminal Using powerlevel10k & Zsh" width="300px" align="left" /></a><a href="https://pratikkale.in/blog/customise-your-terminal-using-zsh-powerlevel10k" title="Customise Your Terminal Using powerlevel10k & Zsh"><strong>Customise Your Terminal Using powerlevel10k & Zsh</strong></a><div><strong>August 31, 2023</strong></div><br/>Transform your terminal from this to this !!
+Before
+
+After
+
+What we will set up?
+1.Zsh
+ZSH, also called the Z shell, is an extended version of the Bourne Shell (sh), with plenty of new features, and s...</p><br/><br/>
+
+<p align="left"><a href="https://pratikkale.in/blog/best-practices-for-using-git-and-github" title="Best Practices for Using Git and GitHub"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1708023538411/f03ded61-5b2a-4c2d-a864-f7ab05b6679c.png" alt="Best Practices for Using Git and GitHub" width="300px" align="left" /></a><a href="https://pratikkale.in/blog/best-practices-for-using-git-and-github" title="Best Practices for Using Git and GitHub"><strong>Best Practices for Using Git and GitHub</strong></a><div><strong>April 30, 2023</strong></div><br/>Welcome to the tenth and last blog of the series!
+Now that we have gone through how you can get started with Git & GitHub.However, it's important to follow best practices to ensure a smooth and effici...</p><br/><br/>
+
+<p align="left"><a href="https://pratikkale.in/blog/github-pages-custom-domains-and-ssl" title="GitHub Pages: Custom Domains and SSL"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1708023559991/6861d763-8d93-4936-8974-1e1089031084.png" alt="GitHub Pages: Custom Domains and SSL" width="300px" align="left" /></a><a href="https://pratikkale.in/blog/github-pages-custom-domains-and-ssl" title="GitHub Pages: Custom Domains and SSL"><strong>GitHub Pages: Custom Domains and SSL</strong></a><div><strong>April 25, 2023</strong></div><br/>Welcome to the ninth blog of the series! In the last blog, we created our first website with GitHub Pages. It was deployed on the domain .github.io, but did you know that you can use a custom domain n...</p><br/><br/>
+
+<p align="left"><a href="https://pratikkale.in/blog/github-pages-building-your-first-website" title="GitHub Pages: Building Your First Website"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1708023563806/047396b3-3fe3-4c3e-b205-b49e7ccebb70.png" alt="GitHub Pages: Building Your First Website" width="300px" align="left" /></a><a href="https://pratikkale.in/blog/github-pages-building-your-first-website" title="GitHub Pages: Building Your First Website"><strong>GitHub Pages: Building Your First Website</strong></a><div><strong>April 18, 2023</strong></div><br/>Welcome to the eighth blog of the series! Now that we have a basic idea of Git & GitHub let's use it in a real-world scenario. In this blog, we will explore GitHub Pages and see how you can build and ...</p><br/><br/>
+
+
 <!-- HASHNODE_BLOG:END -->
 
 <h2><img src="https://media.tenor.com/RlOucaUwKekAAAAi/funny.gif" height="25"> Random Dev Joke</h2>
