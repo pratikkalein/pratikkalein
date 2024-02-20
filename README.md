@@ -40,15 +40,8 @@
 </p>
 
 <h2><img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" height="20"> Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-
-- [How to Manage Google Cloud Compute Engine with Python](https://dev.to/pratik_kale/how-to-manage-google-cloud-compute-engine-with-python-9jd)
-- [Best Practices for Using Git and GitHub](https://dev.to/pratik_kale/best-practices-for-using-git-and-github-6em)
-- [Troubleshooting Common Git Issues](https://dev.to/pratik_kale/troubleshooting-common-git-issues-2jhn)
-- [Integrating GitHub with Other Tools](https://dev.to/pratik_kale/integrating-github-with-other-tools-5g7g)
-- [Advanced Git Techniques](https://dev.to/pratik_kale/advanced-git-techniques-20n8)
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <h2><img src="https://media.tenor.com/RlOucaUwKekAAAAi/funny.gif" height="25"> Random Dev Joke</h2>
 
