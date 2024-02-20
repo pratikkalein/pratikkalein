@@ -14,8 +14,8 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+        uses: "Sachin-chaurasiya/hashnode-blog-action@main"
         with:
-          USERNAME: "pratikkale"
-          BLOG_URL: "pratikkale.hashnode.dev"
-          COUNT: 5
+          HASHNODE_PUBLICATION_NAME: "pratikkale.hashnode.dev"
+          POST_COUNT: 6
+          FORMAT: "stacked"
