@@ -7,6 +7,7 @@
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
 <p>
   <a href="mailto:ppvkale@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-EA4335?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://pratikkale.in/blog" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-My%20Blog-6e37e1?style=for-the-badge "></a>
   <a href="https://www.linkedin.com/in/pratikkalein" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://twitter.com/pratikkalein" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://dev.to/pratik_kale" target="_blank"><img height="30" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
@@ -15,19 +16,20 @@
 
 <img align ="right" src = "https://raw.githubusercontent.com/prtkdev/prtkdev/main/linux.png" width="250" height="250">
 
-- 🌱 I’m currently exploring DevOPS
+- 🌱 I’m currently exploring Next.js & DevOPS
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: ppvkale@gmail.com
   <br></br>
 
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>
+<h2><img src="https://media.tenor.com/RlOucaUwKekAAAAi/funny.gif" height="20"> Stuff I Know</h2>
 
 <p>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"> 
-<img src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=C&logoColor=black" height="25"> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=html5&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=Next.js&logoColor=FFF" height="25"> 
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=FFF" height="25"> 
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" height="25"> 
-<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="25"> 
+<img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=FFF" height="25"> 
+<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=FFF" height="25"> 
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25"> 
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"> 
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25"> 
@@ -40,6 +42,7 @@
 <h2><img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" height="20"> Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to Manage Google Cloud Compute Engine with Python](https://dev.to/pratik_kale/how-to-manage-google-cloud-compute-engine-with-python-9jd)
 - [Best Practices for Using Git and GitHub](https://dev.to/pratik_kale/best-practices-for-using-git-and-github-6em)
 - [Troubleshooting Common Git Issues](https://dev.to/pratik_kale/troubleshooting-common-git-issues-2jhn)
@@ -47,11 +50,7 @@
 - [Advanced Git Techniques](https://dev.to/pratik_kale/advanced-git-techniques-20n8)
 <!-- BLOG-POST-LIST:END -->
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikkalein&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=pratikkalein&theme=midnight-purple&include_all_commits=true&count_private=true)
-
-<h2><img src="https://media.tenor.com/images/2c67c79dca6f61769ff19a3d23e7a37f/tenor.gif" height="25"> Random Dev Joke</h2>
+<h2><img src="https://media.tenor.com/RlOucaUwKekAAAAi/funny.gif" height="25"> Random Dev Joke</h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000&textColor=%23ffff&qColor=%23ffffff&aColor=%23ffffff&borderColor=%23&codeColor=%23ffffff)
 
